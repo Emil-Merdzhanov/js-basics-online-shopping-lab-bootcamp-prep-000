@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- item = 1
+ var: itemName: Name 
  return cart
 }
 
